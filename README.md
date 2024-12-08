@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br><br>I’m Shreya Kawade, an Associate Software Developer at Capgemini, with a versatile skill set in Java, AWS, and Spring frameworks. I have a passion for solving complex problems and delivering scalable, efficient software solutions.<br><br>🔭 What I Do:<br>🛠️ Building robust backend systems with Java and Spring.<br>☁️ Leveraging AWS services to design and deploy cloud-native applications.<br>🧩 Solving challenging problems with creative, well-optimized solutions.<br>🌱 Learning & Growth:<br>I’m continuously exploring advancements in cloud computing, distributed systems, and software architecture.<br>
+Hi there! 👋<br><br>I’m Shreya Kawade, an Associate Software Developer at Capgemini, with a versatile skill set in Java, AWS, and Spring frameworks. I have a passion for solving complex problems and delivering scalable, efficient software solutions.<br><br>🔭 What I Do:<br>🛠️ Building robust backend systems with Java and Spring.<br>☁️ Leveraging AWS services to design and deploy cloud-native applications.<br>🧩 Solving challenging problems with creative, well-optimized solutions.<br><br>🌱 Learning & Growth:<br>I’m continuously exploring advancements in cloud computing, distributed systems, and software architecture.<br>
 
 
 ## 🌐 Socials:
